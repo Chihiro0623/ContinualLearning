@@ -7,7 +7,7 @@ CIFAR-100
 ResNet-50
 
 ## Result  
-[WandB Result](https://api.wandb.ai/links/oso0310/k1f1i0tn)
+[WandB Result](https://wandb.ai/oso0310/experiment1-2/reports/Experiment-1-1--Vmlldzo1MDA2MzIz)
 ![image](https://github.com/Chihiro0623/ContinualLearning/blob/main/Experiments/experiment1/experiment1-1/Result.png)  
 
 목표 퍼센트가 올라갈 수록 달성률이 떨어지는 경향을 보였다  
