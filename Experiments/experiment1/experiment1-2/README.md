@@ -8,7 +8,7 @@
 CIFAR-100  
 ResNet-50
 
-## Result  
+## 결과  
 [WandB Result](https://wandb.ai/oso0310/experiment1-2/reports/Experiment-1-2--Vmlldzo1MDA2MjY3)
 ![image](https://github.com/Chihiro0623/ContinualLearning/blob/main/Experiments/experiment1/experiment1-2/top-1.png)  
 ![image](https://github.com/Chihiro0623/ContinualLearning/blob/main/Experiments/experiment1/experiment1-2/top-5.png)  
