@@ -8,7 +8,7 @@ ResNet-50
 
 ## Result  
 [WandB Result](https://api.wandb.ai/links/oso0310/k1f1i0tn)
-![image](https://github.com/Chihiro0623/ContinualLearning/Experiments/experiment1/Result.png)  
+![image](https://github.com/Chihiro0623/ContinualLearning/blob/main/Experiments/experiment1/experiment1-1/Result.png)  
 
 목표 퍼센트가 올라갈 수록 달성률이 떨어지는 경향을 보였다  
 그러나 Implement 시 미흡한 점이 있었기 때문에 정확한 결과라고 할 수 없다  
