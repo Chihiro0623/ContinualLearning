@@ -1,4 +1,4 @@
-# Experiment 1  
+# Experiment 1-1
 ## 가정
 학습 과정에서 N개의 Class 중 X개의 Class만을 노출시키면 Top-1 Accuracy가 X/N(%)가 될 것이다
 
