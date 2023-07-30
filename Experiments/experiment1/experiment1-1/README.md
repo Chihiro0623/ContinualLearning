@@ -12,5 +12,5 @@ ResNet-50
 ![image](https://github.com/Chihiro0623/ContinualLearning/blob/main/Experiments/experiment1/experiment1-1/top-5.png)  
 
 top-1 accuracy는 목표 퍼센트가 올라갈 수록 달성률이 떨어지는 경향을 보였다  
-그런데 top-5 accuracy는 목표를 잘 달성했다
+top-5 accuracy도 달성률이 떨어지는 경향을 보였으나 대체로 목표를 잘 달성했다
 그러나 Implement 시 미흡한 점이 있었기 때문에 정확한 결과라고 할 수 없다  
