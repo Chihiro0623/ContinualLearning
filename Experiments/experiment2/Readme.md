@@ -13,3 +13,4 @@ https://github.com/G-U-N/PyCIL
 [wandb](https://api.wandb.ai/links/oso0310/28ulejvg)  
 
 ## 결과 분석
+결과 순위의 경향성은 같으나, 적게는 5- 많게는 20%p씩 향상된 결과를 보였다
